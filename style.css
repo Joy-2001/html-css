@@ -52,6 +52,7 @@ table {
  }
  
  .wrap{
+  width: calc(100vw - 17px);
    margin: 0 auto;
    font-family: sans-serif;
  }
@@ -188,6 +189,7 @@ table {
  .card ul{
      padding-left: 70px;
    padding-bottom:20px;
+   list-style-type:disc;
  }
  
  .content a:hover {
